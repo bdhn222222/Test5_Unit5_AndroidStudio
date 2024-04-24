@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thư viện Sách</string>
+    <string name="connection_error">Lỗi</string>
+    <string name="no_results">Không có kết quả.</string>
+    <string name="search">Tìm kiếm…</string>
+    <string name="refresh">Tải lại</string>
+</resources>
